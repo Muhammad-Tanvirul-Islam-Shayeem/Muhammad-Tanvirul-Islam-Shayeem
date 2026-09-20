@@ -89,12 +89,12 @@ that may or may not be useful.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shayeem&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayeem&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Tanvirul-Islam-Shayeem&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Tanvirul-Islam-Shayeem&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shayeem&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Tanvirul-Islam-Shayeem&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -103,7 +103,7 @@ that may or may not be useful.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayeem&layout=donut&theme=radical&hide_border=true&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Tanvirul-Islam-Shayeem&layout=donut&theme=radical&hide_border=true&langs_count=6" />
 
 </p>
 
@@ -114,11 +114,11 @@ that may or may not be useful.
 <p align="center">
 
 <a href="https://github.com/Shayeem/Roblox-MCP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shayeem&repo=Roblox-MCP&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Tanvirul-Islam-Shayeem&repo=Roblox-MCP&theme=radical&hide_border=true" />
 </a>
 
 <a href="https://github.com/Shayeem/Bismuth">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shayeem&repo=Bismuth&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Tanvirul-Islam-Shayeem&repo=Bismuth-Desktop&theme=radical&hide_border=true" />
 </a>
 
 </p>
@@ -129,12 +129,8 @@ that may or may not be useful.
 
 <p align="center">
 
-<a href="https://github.com/Shayeem">
+<a href="https://github.com/Muhammad-Tanvirul-Islam-Shayeem">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 </p>
@@ -144,7 +140,7 @@ that may or may not be useful.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shayeem&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Tanvirul-Islam-Shayeem&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
